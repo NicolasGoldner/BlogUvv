@@ -14,6 +14,8 @@ py -m pip install --upgrade pip
 pip install flask
 pip install ipython
 pip install flask-wtf
+pip install flask-sqlalchemy
+pip install flask-migrate
 ```
 ### Rodar
 ```
